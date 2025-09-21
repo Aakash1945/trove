@@ -35,7 +35,7 @@ SECRET_KEY = 'django-insecure-%(ng!--!yq@*%$u-i!42c^1t7j44(b6bplybz&-%b0cf=b_)9-
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['trove-uiky.onrender.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['trov-uiky.onrender.com', 'localhost', '127.0.0.1']
 
 
 APPEND_SLASH=True
@@ -133,3 +133,4 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
